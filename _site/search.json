@@ -1,0 +1,167 @@
+[
+  
+    {
+
+      "title"    : "Hello world",
+      "url"      : "/compliance-as-code/news/hello-world",
+      "category" : "",
+      "tags"     : "",
+      "date"     : "2020-11-12 07:00:00 -0800"
+
+    },
+  
+  
+  {
+
+    "title"    : "Fen Labalme",
+    "url"      : "/people/fen-labalme",
+    "category" : "",
+    "name"     : "Fen Labalme",
+    "bio"      : "Fen leads security and compliance for CivicActions.\n"
+
+  },
+  
+  {
+
+    "title"    : "Greg Elin",
+    "url"      : "/people/greg-elin",
+    "category" : "",
+    "name"     : "Greg Elin",
+    "bio"      : "Greg is founder and CEO of GovReady.\n"
+
+  },
+  
+  {
+
+    "title"    : "Luke Fretwell",
+    "url"      : "/people/luke-fretwell",
+    "category" : "",
+    "name"     : "Luke Fretwell",
+    "bio"      : "Luke Fretwell is co-founder and CEO of ProudCity.\n"
+
+  },
+  
+  
+  
+  
+  
+  
+  {
+
+    "title"    : "Barriers",
+    "url"      : "/guide/barriers",
+    "category" : "",
+    "content"  : "\n"
+
+  },
+  
+  {
+
+    "title"    : "Buying",
+    "url"      : "/guide/buying",
+    "category" : "",
+    "content"  : "\n"
+
+  },
+  
+  {
+
+    "title"    : "Communities",
+    "url"      : "/guide/communities",
+    "category" : "",
+    "content"  : "\n"
+
+  },
+  
+  {
+
+    "title"    : "Definitions",
+    "url"      : "/guide/definitions",
+    "category" : "",
+    "content"  : "\n"
+
+  },
+  
+  {
+
+    "title"    : "Events",
+    "url"      : "/guide/events",
+    "category" : "",
+    "content"  : "\n"
+
+  },
+  
+  {
+
+    "title"    : "Getting started",
+    "url"      : "/guide/getting-started",
+    "category" : "",
+    "content"  : "\n"
+
+  },
+  
+  {
+
+    "title"    : "Glossary",
+    "url"      : "/guide/glossary",
+    "category" : "",
+    "content"  : "\n"
+
+  },
+  
+  {
+
+    "title"    : "Introduction",
+    "url"      : "/guide/introduction",
+    "category" : "",
+    "content"  : "\n"
+
+  },
+  
+  {
+
+    "title"    : "Executive orders / directives / law",
+    "url"      : "/guide/orders-law",
+    "category" : "",
+    "content"  : "\n"
+
+  },
+  
+  {
+
+    "title"    : "Organizations",
+    "url"      : "/guide/organizations",
+    "category" : "",
+    "content"  : "Government\n\n\n  \n\n\nNonprofit\n\n\n  \n\n\n"
+
+  },
+  
+  {
+
+    "title"    : "References",
+    "url"      : "/guide/references",
+    "category" : "",
+    "content"  : "Articles / white papers\n\n\n  \n\n\nAudio/video\n\n\n  \n\n"
+
+  },
+  
+  {
+
+    "title"    : "Roles",
+    "url"      : "/guide/roles",
+    "category" : "",
+    "content"  : "\n  \n\n"
+
+  },
+  
+  {
+
+    "title"    : "Tools",
+    "url"      : "/guide/tools",
+    "category" : "",
+    "content"  : "\n  \n\n"
+
+  }
+  
+
+]
