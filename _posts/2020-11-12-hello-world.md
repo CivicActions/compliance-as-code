@@ -10,7 +10,7 @@ categories:
 tags: 
 author: fen-labalme
 feat-img: git-commit.png
-permalink: 
+permalink: /hello-world
 
 ---
 
