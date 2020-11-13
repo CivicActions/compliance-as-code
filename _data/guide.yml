@@ -2,53 +2,53 @@ docs_list_title: guide
 docs:
 
 - title: Introduction
-  url: /introduction/
+  url: /introduction
   icon: <i class="fa fa-sun" aria-hidden="true"></i>
 
 - title: Executive orders / directives / law
-  url: /orders-law/
+  url: /orders-law
   icon: <i class="fas fa-certificate"></i>
 
 - title: Definitions
-  url: /definitions/
+  url: /definitions
   icon: <i class="fas fa-bars"></i>
 
 - title: Barriers
-  url: /barriers/
+  url: /barriers
   icon: <i class="fas fa-times-circle"></i>
 
 - title: Getting started
-  url: /getting-started/
+  url: /getting-started
   icon: <i class="fas fa-project-diagram"></i>
 
 - title: Buying
-  url: /buying/
+  url: /buying
   icon: <i class="far fa-credit-card"></i>
 
 - title: Roles
-  url: /roles/
+  url: /roles
   icon: <i class="fas fa-user"></i>
 
 - title: Tools
-  url: /tools/
+  url: /tools
   icon: <i class="fas fa-toolbox"></i>
 
 - title: Events
-  url: /events/
+  url: /events
   icon: <i class="fa fa-calendar" aria-hidden="true"></i>
 
 - title: Communities
-  url: /communities/
+  url: /communities
   icon: <i class="fas fa-user-friends"></i>
 
 - title: Organizations
-  url: /organizations/
+  url: /organizations
   icon: <i class="fas fa-atom"></i>
 
 - title: Glossary
-  url: /glossary/
+  url: /glossary
   icon: <i class="fas fa-file-alt"></i>
 
 - title: References
-  url: /references/
+  url: /references
   icon: <i class="far fa-file-alt"></i>
