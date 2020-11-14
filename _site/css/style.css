@@ -1,6 +1,8 @@
+
 body {
     color: #000000;
-    font-family: 'Lato', sans-serif;
+    font-family: 'Public Sans', sans-serif;
+    font-weight: 300;
 }
 
 img {
@@ -14,10 +16,8 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: 'Ubuntu', sans-serif;
     font-weight: 700;
     color: #000000;
-    letter-spacing: -.04em;
     padding-top: .75rem;
 }
 
@@ -303,8 +303,6 @@ h4 a:visited {
 .breadcrumb a:active {
     color: #ffffff;
     text-decoration: none;
-    font-family: 'Ubuntu', sans-serif;
-    font-weight: 700;
 }
 
 .breadcrumb a:hover {
@@ -438,14 +436,12 @@ ul.nav-pills {
 }
 
 .navbar-brand {
-    font-family: 'Lato', sans-serif;
-    font-weight: 900;
     color: #ffff;
+    font-weight: 700;
 }
 
 .navbar-dark .navbar-nav .nav-link {
     color: #fff;
-    font-family: 'Ubuntu', sans-serif;
 }
 
 .navbar li.active a,
@@ -490,6 +486,7 @@ ul.nav-pills {
 
 .jumbotron.home h1 {
     font-size: 4rem;
+    font-weight: 700;
 }
 
 .jumbotron.home .lead {
@@ -536,8 +533,6 @@ a.btn:hover {
     padding: 10px;
     text-decoration: none !important;
     text-align: center;
-    font-family: 'Ubuntu', sans-serif;
-    font-weight: 700;
 }
 
 a.btn-primary:hover {
@@ -580,8 +575,6 @@ a.btn-outline-secondary:hover {
 
 .edit .btn,
 .edit .btn:hover {
-    font-family: 'Lato', sans-serif;
-    font-weight: 300;
     margin-top: 2rem;
 }
 
