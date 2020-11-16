@@ -7,4 +7,4 @@ permalink: /contact/
 
 ---
 
-* <compliance@civicactions.com>
+* Email: <compliance@civicactions.com>
