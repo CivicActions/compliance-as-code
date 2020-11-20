@@ -5,41 +5,41 @@ docs:
   url: /introduction
   icon: <i class="fa fa-sun" aria-hidden="true"></i>
 
-- title: Executive orders / directives / law
-  url: /orders-law
-  icon: <i class="fas fa-certificate"></i>
+#- title: Executive orders / directives / law
+#  url: /orders-law
+#  icon: <i class="fas fa-certificate"></i>
 
-- title: Definitions
-  url: /definitions
-  icon: <i class="fas fa-bars"></i>
+#- title: Definitions
+#  url: /definitions
+#  icon: <i class="fas fa-bars"></i>
 
-- title: Barriers
-  url: /barriers
-  icon: <i class="fas fa-times-circle"></i>
+#- title: Barriers
+#  url: /barriers
+#  icon: <i class="fas fa-times-circle"></i>
 
-- title: Getting started
-  url: /getting-started
-  icon: <i class="fas fa-project-diagram"></i>
+#- title: Getting started
+#  url: /getting-started
+#  icon: <i class="fas fa-project-diagram"></i>
 
-- title: Buying
-  url: /buying
-  icon: <i class="far fa-credit-card"></i>
+#- title: Buying
+#  url: /buying
+#  icon: <i class="far fa-credit-card"></i>
 
-- title: Roles
-  url: /roles
-  icon: <i class="fas fa-user"></i>
+#- title: Roles
+#  url: /roles
+#  icon: <i class="fas fa-user"></i>
 
-- title: Tools
-  url: /tools
-  icon: <i class="fas fa-toolbox"></i>
+#- title: Tools
+#  url: /tools
+#  icon: <i class="fas fa-toolbox"></i>
 
-- title: Events
-  url: /events
-  icon: <i class="fa fa-calendar" aria-hidden="true"></i>
+#- title: Events
+#  url: /events
+#  icon: <i class="fa fa-calendar" aria-hidden="true"></i>
 
-- title: Communities
-  url: /communities
-  icon: <i class="fas fa-user-friends"></i>
+#- title: Communities
+#  url: /communities
+#  icon: <i class="fas fa-user-friends"></i>
 
 - title: Organizations
   url: /organizations
@@ -49,6 +49,6 @@ docs:
   url: /glossary
   icon: <i class="fas fa-file-alt"></i>
 
-- title: References
-  url: /references
-  icon: <i class="far fa-file-alt"></i>
+#- title: References
+#  url: /references
+#  icon: <i class="far fa-file-alt"></i>

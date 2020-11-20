@@ -18,9 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-name: Government + Compliance as Code
+name: Authority to Operate + Compliance as Code
 email: compliance@civicactions.com
-description: Compliance as Code for government
+description: Government Authority to Operate + Compliance as Code
 baseurl: /compliance-as-code # the subpath of your site, e.g. /blog
 url: https://civicactions.github.io/compliance-as-code/ # the base hostname & protocol for your site, e.g. http://example.com
 

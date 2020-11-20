@@ -31,16 +31,6 @@
 
   },
   
-  {
-
-    "title"    : "Luke Fretwell",
-    "url"      : "/people/luke-fretwell",
-    "category" : "",
-    "name"     : "Luke Fretwell",
-    "bio"      : "Luke Fretwell is co-founder and CEO of ProudCity.\n"
-
-  },
-  
   
   
   
@@ -105,7 +95,7 @@
     "title"    : "Glossary",
     "url"      : "/guide/glossary",
     "category" : "",
-    "content"  : "\n"
+    "content"  : "Authority to operate (ATO)\n\n"
 
   },
   
@@ -132,7 +122,7 @@
     "title"    : "Organizations",
     "url"      : "/guide/organizations",
     "category" : "",
-    "content"  : "Government\n\n\n  \n\n\nNonprofit\n\n\n  \n\n\n"
+    "content"  : "Government\n\n\n  National Institute of Standards and Technology (NIST)\n\n\nNonprofit\n\n\n  OpenControl\n\n\n"
 
   },
   
